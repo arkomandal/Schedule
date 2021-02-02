@@ -12,4 +12,4 @@ day_of_month.getNewDay('2021-01-31', '2021-04').then(day => {
 });
 ```
 
-Since 2021-01-31 was last sunday and we are enquiring about last sunday of 2021-04 it gave returned 2021-04-25
+Since 2021-01-31 was last sunday and we are enquiring about last sunday of 2021-04 it returned 2021-04-25
